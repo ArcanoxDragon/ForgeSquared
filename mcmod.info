@@ -2,7 +2,7 @@
 {
   "modid": "ForgeSquared",
   "name": "ForgeSquared",
-  "description": "ForgeSquared changes the way metal forging and other tasks work in Minecraft.",
+  "description": "ForgeSquared expands your Minecraft, changing metalworking and more.",
   "version": "1.0,
   "mcversion": "1.3.2",
   "url": "https://github.com/briman0094/ForgeSquared",
@@ -10,7 +10,7 @@
   "authors": [
     "briman0094"
   ],
-  "credits": "Created by briman0094 and Nethack45",
+  "credits": "Coding by briman0094 and artwork by Nethack45",
   "logoFile": "",
   "screenshots": [],
   "parent":"",
